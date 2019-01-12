@@ -26,7 +26,7 @@ posts = "posts/:slug/"
 author = "Juan A. Ugalde, PhD"
 description = "Landing Page"
 bio = ""
-avatar = "img/avatar.jpg"
+avatar = "img/me.jpg"
 favicon = "img/favicon.ico"
 
 	[params.contact]
