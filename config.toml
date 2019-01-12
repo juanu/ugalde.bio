@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "John Doe · Landing Page"
+title = "Juan Ugalde · Landing Page"
 
 [blackfriday]
 extensions = ["hardLineBreak"]
