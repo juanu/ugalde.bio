@@ -1,0 +1,11 @@
+name: "."
+title: "Juan A. Ugalde"
+description: |
+  Juan A. Ugalde
+output_dir: "_site"
+theme: postcards.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

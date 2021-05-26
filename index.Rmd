@@ -1,3 +1,42 @@
 ---
-site: blogdown:::blogdown_site
+title: "Juan A. Ugalde"
+image: "juan.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/JuanUgaldeC"
+  - label: GitHub
+    url: "https://github.com/juanu"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=sa8zURMAAAAJ&view_op=list_works&sortby=pubdate"
+  - label: CV
+    url: "UgaldeCV_May2021.pdf"
+  - label: Email
+    url: "mailto:juan@ugalde.bio"
+site: distill::distill_website
+output:
+  postcards::trestles
 ---
+ 
+
+Muchas gracias por visitar esta pagina! Mi nombre es Juan y soy un investigador en bioinformática/microbiología/genómica de Chile. Mi trabajo se ha enfocado en la aplicación de aproximaciones bioinformáticas y genómicas para entender el mundo microbiano que nos rodea. En la actualidad, tengo un rol de Bioinformático Senior en [Tiny Health](https://www.tinyhealth.com), trabajando con datos de microbioma con el objetivo de mejorar la salud de los bebés!
+
+También soy investigador adjunto en el [C+, Centro de Investigación en Tecnologías para la Sociedad](https://ingenieria.udd.cl/centroid/) (Facultad de Ingeniería, Universidad del Desarrollo) y del [Núcleo Milenio para la Investigación Colaborativa en Resistencia Antimicrobiana](https://microb-r.org) (MICROB-R)
+
+<br>
+
+___
+
+<br>
+
+Thanks for visiting! My name is Juan, and I am a bioinformatician/microbiologist/genomics researcher from Chile. My work focuses on the application of bioinformatics and genomics approaches to understand the microbial world that surrounds us. Currently, I am a Senior Bioinformatician at [Tiny Health](https://www.tinyhealth.com), working with microbiome datasets to help improve babies' health!
+
+I am also an adjunct researcher at the [C+, Research Center in Technologies for Society](https://ingenieria.udd.cl/centroid/) (School of Engineering, Universidad del Desarrollo) and the [Millenium Nucleus for Collaborative Research on Bacterial Resistance](https://microb-r.org) (MICROB-R). 
+
+<br>
+<br>
+
+#### Estudios / Education
+
+- 2014, **Scripps Institution of Oceanography, UC San Diego**. Ph.D in Marine Biology.
+- 2006, **Facultad de Ciencias, Universidad de Chile**. B.S. in Molecular Biotechnology.
+
