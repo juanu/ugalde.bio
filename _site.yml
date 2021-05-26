@@ -4,6 +4,7 @@ description: |
   Juan A. Ugalde
 output_dir: "_site"
 theme: postcards.css
+google_analytics: "G-YWT353BPL5"
 navbar:
   right:
     - text: "Home"
